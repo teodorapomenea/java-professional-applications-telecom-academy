@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Cutie
+comment1.params=
+comment1.target=Cutie()
+comment2.params=continut
+comment2.target=Cutie(java.lang.Object)
+comment3.params=
+comment3.target=java.lang.Object\ scoateContinut()
+comment4.params=a
+comment4.target=void\ metoda(java.lang.Object)
+comment5.params=a
+comment5.target=void\ metodaStatica(java.lang.Object)
+numComments=6

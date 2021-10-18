@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Lego
+comment1.params=culoare\ nrPiese
+comment1.target=Lego(java.lang.String,\ int)
+comment2.params=l
+comment2.target=int\ compareTo(Lego)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4
